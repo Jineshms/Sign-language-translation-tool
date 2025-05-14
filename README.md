@@ -1,4 +1,4 @@
-# #Sign Language Translation Tool
+# Sign Language Translation Tool
 
 ## Purpose
 
